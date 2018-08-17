@@ -2,7 +2,7 @@
 An Android app that use to match projects.
 
 ## Main Contributors:
-The project is from the course Software Engineering 1,and the original main contributors were (names in alphabetical order):
+The project is from the course Software Engineering 1, and the original main contributors were (names in alphabetical order):
 **Adam Andritz, Buhle Mwanza, Levi Guo (me), Matthew Fogel, Tom, Wilson Zhang.**
 
 ## General Vision
