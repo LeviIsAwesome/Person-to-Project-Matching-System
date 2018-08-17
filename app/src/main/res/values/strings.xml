@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PPMS</string>
+
+    <string name="enter_all_fields_prompt">Please Enter All Text Fields</string>
+
+    <string name="enter_project_name_prompt">Please Enter Project Name</string>
+    <string name="project_description_header">Please Enter Project Description</string>
+    <string name="create_project">Create Project</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid_account_name">Invalid Account Name</string>
+    <string name="credentials_label">Credentials</string>
+    <string name="success_message">Success</string>
+    <string name="invalid_data">Invalid Data</string>
+    <string name="view_all_project">View All Projects</string>
+    <string name="view_liked_project">View Liked Projects</string>
+    <string name="view_project_details">View Project Details</string>
+    <string name="fatalError">Fatal error</string>
+    <string name="warning">Warning</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login_submit_button">Login</string>
+    <string name="login_field_default_text">Enter your username</string>
+    <string name="sign_up_default_username_text">Enter a username</string>
+    <string name="sign_up_default_password_text">Enter a password</string>
+    <string name="does_not_have_account_prompt">If you do not have an account</string>
+    <string name="project_credential_input">Please Enter Project Credential</string>
+    <string name="user_key">userName</string>
+    <string name="project_id">projectID</string>
+    <string name="return_to_main">Go To Main Page</string>
+    <string name="view_interested_users_text">View Interested Users</string>
+    <string name="view_matched_users_text">View Matched Users</string>
+    <string name="user_name_header">User Name:</string>
+    <string name="select_user">Select User</string>
+    <string name="user_selected">User Selected</string>
+    <string name="match_message">Congratulations! You have been Matched for this Project!</string>
+</resources>
