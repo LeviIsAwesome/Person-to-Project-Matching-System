@@ -19,3 +19,6 @@ No special steps are needed, simply:
 1. Clone the repository from the **master** branch  
 2. Open the project in Android Studio
 3. Sync with Gradle
+
+## Main Part of Code
+[main-code](https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/tree/master/app/src/main/java/comp3350/ppms)
