@@ -21,4 +21,6 @@ No special steps are needed, simply:
 3. Sync with Gradle
 
 ## Main Part of Code
-[main-code](https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/tree/master/app/src/main/java/comp3350/ppms)
+[Link to The Code](https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/tree/master/app/src/main/java/comp3350/ppms)
+The whole program sticked to 3-tier architecture
+
