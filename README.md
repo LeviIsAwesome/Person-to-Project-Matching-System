@@ -1,5 +1,5 @@
 # Person to Project Matching System (PPMS)
-An Android app that use to match projects.
+An Android app that aiming find desired coding partner by matching project. Like Tinder but more professional ;)
 
 ## Main Contributors:
 The project is from the course Software Engineering 1, and the original main contributors were (names in alphabetical order):
