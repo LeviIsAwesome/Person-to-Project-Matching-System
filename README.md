@@ -46,5 +46,5 @@ No special steps are needed, simply:
 3. Sync with Gradle
 
 ## Main Part Of Code
-[Link to The Code](https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/tree/master/app/src/main/java/comp3350/ppms)
-The whole program sticked to 3-tier architecture
+[Link](https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/tree/master/app/src/main/java/comp3350/ppms)
+to the main section of the coed, and the whole program was sticked with 3-tier architecture
