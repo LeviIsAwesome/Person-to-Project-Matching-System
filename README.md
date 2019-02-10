@@ -19,7 +19,7 @@ PPMS will be used to match projects looking for contributors with specific skill
 <img src="https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/blob/master/images/start_page.png" width="300px;"/>
 
 - Sign Up Page
-<img src="https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/blob/master/images/start_page.png" width="300px;"/>
+<img src="https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/blob/master/images/signup_page.png" width="300px;"/>
 
 - Main page
 <img src="https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/blob/master/images/main_page.png" width="300px;"/>
