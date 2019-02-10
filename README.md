@@ -15,28 +15,28 @@ PPMS will be used to match projects looking for contributors with specific skill
 * Make it easy and fun for project owners to find qualified candidates
 
 ## Screenshot Of The app
-## Welcome Page
+- Welcome Page
 <img src="https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/blob/master/images/start_page.png" width="300px;"/>
 
-## Sign Up Page
+- Sign Up Page
 <img src="https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/blob/master/images/start_page.png" width="300px;"/>
 
-## Main page
+- Main page
 <img src="https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/blob/master/images/main_page.png" width="300px;"/>
 
-## View All Existing Projects 
+- View All Existing Projects 
 <img src="https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/blob/master/images/view_existing_proj.png" width="300px;"/>
 
-## View And Like The Project "Internet Flix"
+- View And Like The Project "Internet Flix"
 <img src="https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/blob/master/images/selected_page.png" width="300px;"/>
 
-## "Internet Flix" Project View From The Project Owner POV 
+- "Internet Flix" Project View From The Project Owner POV 
 <img src="https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/blob/master/images/proj_owner_proj_page.png" width="300px;"/>
 
-## The Project Owner View Interested Users
+- The Project Owner View Interested Users
 <img src="https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/blob/master/images/view_instered_user.png" width="300px;"/>
 
-### Match With The User
+- Match With The User
 <img src="https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/blob/master/images/match.png" width="300px;"/>
 
 ## Run The Project
