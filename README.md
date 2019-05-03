@@ -1,10 +1,6 @@
 # Person to Project Matching System (PPMS)
 An Android app that aiming find desired coding partner by matching project. Like Tinder but for professionals ;)
 
-## Main Contributors:
-The project is from the course Software Engineering 1, and the original main contributors were (names in alphabetical order):
-**Adam Andritz, Buhle Mwanza, Levi Guo (me), Matthew Fogel, Tom, Wilson Zhang.**
-
 ## General Vision
 PPMS will be used to match projects looking for contributors with specific skillsets and qualifications with persons looking to contribute to a project. 
 
@@ -48,3 +44,8 @@ No special steps are needed, simply:
 ## Main Part Of Code
 [Link](https://github.com/LeviIsAwesome/Person-to-Project-Matching-System/tree/master/app/src/main/java/comp3350/ppms)
 to the main section of the coed, and the whole program was sticked with 3-tier architecture
+
+
+## Contributing:
+The project is from the course Software Engineering 1, and the original main contributors were (names in alphabetical order):
+**Adam Andritz, Buhle Mwanza, Levi Guo (me), Matthew Fogel, Tom, Wilson Zhang.**
